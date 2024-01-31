@@ -1,0 +1,9 @@
+@mixin center-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+@mixin upbetween-box {
+    display: flex;
+    align-items: center;
+}
